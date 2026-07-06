@@ -1,9 +1,0 @@
-Project: project_1_one_storey
-Building Cost Estimation Data for Creative Paradise Construction
-
-Grand Total Cost: 307,938,674 MMK
-Floor Area: Not Available sq ft
-Cost per sq ft (PAE Rate): 183546.94485842026 MMK/sq ft
-
-This is a real completed project by Creative Paradise Construction and Decoration Co., Ltd based in Myanmar.
-The cost includes material, labour, machinery, transportation, preliminary and supervision charges.

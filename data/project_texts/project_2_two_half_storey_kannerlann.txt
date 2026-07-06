@@ -1,9 +1,0 @@
-Project: project_2_two_half_storey_kannerlann
-Building Cost Estimation Data for Creative Paradise Construction
-
-Grand Total Cost: 486,400,000 MMK
-Floor Area: Not Available sq ft
-Cost per sq ft (PAE Rate): 90969.5513839566 MMK/sq ft
-
-This is a real completed project by Creative Paradise Construction and Decoration Co., Ltd based in Myanmar.
-The cost includes material, labour, machinery, transportation, preliminary and supervision charges.

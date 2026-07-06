@@ -1,9 +1,0 @@
-Project: project_3_three_storey_magway
-Building Cost Estimation Data for Creative Paradise Construction
-
-Grand Total Cost: 356,044,194 MMK
-Floor Area: 3729.4 sq ft
-Cost per sq ft (PAE Rate): 95468.44 MMK/sq ft
-
-This is a real completed project by Creative Paradise Construction and Decoration Co., Ltd based in Myanmar.
-The cost includes material, labour, machinery, transportation, preliminary and supervision charges.
