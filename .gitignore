@@ -1,0 +1,17 @@
+# Ignore large project data files - keep them local only
+past_projects/
+general/
+data/
+
+# Keep virtual environment out of GitHub
+venv/
+
+# Keep environment variables secret
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary Excel files
+~$*.xlsx
